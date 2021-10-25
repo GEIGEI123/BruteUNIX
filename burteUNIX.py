@@ -1,7 +1,6 @@
 import crypt
 import optparse
 
-Red0cms
 
 def main():
 	parser = optparse.OptionParser('usage%prog: ' + ' -d <dictionaryfile>')
